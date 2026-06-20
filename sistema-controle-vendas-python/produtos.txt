@@ -1,0 +1,3 @@
+Mouse / 55.0 / 17
+Teclado / 90.0 / 15
+Monitor 24Hz / 152.0 / 1
